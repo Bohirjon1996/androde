@@ -1670,3 +1670,9 @@ http://31.14.41.56/milliy/tracks-v1a1/mono.m3u8
 http://31.14.41.56/zor/tracks-v1a2/index.m3u8
 #EXTINF:-1,MY5
 http://31.14.41.56/my5/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Futbol TV
+http://31.14.41.56/futbol/tracks-v1a2/index.m3u8
+#EXTINF:-1,UZReport
+http://31.14.41.56/uzr/tracks-v1a2/index.m3u8
+#EXTINF:-1,Yoshlar
+http://31.14.41.56/yosh/tracks-v1a2/index.m3u8
